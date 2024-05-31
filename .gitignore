@@ -1,0 +1,6 @@
+*.sln
+bin
+obj
+.vs
+*.zip
+*.dll
