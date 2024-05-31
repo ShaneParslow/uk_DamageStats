@@ -1,4 +1,4 @@
-DamageStats
+# DamageStats
 
 Displays statistics related to damage in the upper right corner of the screen.
 
