@@ -1,5 +1,7 @@
 # DamageStats
 
+Finally updated for the revamp! Now with a more sensible format and MUCH less horrible code! Not that anybody other than me cares...
+
 Displays statistics related to damage in the upper right corner of the screen.
 
 Note that the raw damage output of a weapon, projectile, punch, etc. does not necessarily mean that the health of the enemy is decreased by that amount. The final decrease in health factors in resistances, weaknesses, parries, etc. 

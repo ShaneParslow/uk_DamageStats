@@ -1,6 +1,6 @@
 {
     "name": "DamageStats",
-    "version_number": "1.0.0",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/ShaneParslow/uk_DamageStats",
     "description": "Displays damage numbers",
     "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
